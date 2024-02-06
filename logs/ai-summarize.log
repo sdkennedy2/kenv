@@ -1,0 +1,165 @@
+[2024-02-06 09:48:34.068] [info]  3395: Blur caused exit. Provide a "onBlur" handler to override.
+[2024-02-06 09:49:43.949] [info]  3422: Blur caused exit. Provide a "onBlur" handler to override.
+[2024-02-06 09:52:05.696] [info]  3443: Blur caused exit. Provide a "onBlur" handler to override.
+[2024-02-06 10:00:05.309] [info]  Found openai in /Users/scottkennedy/.kenv/package.json
+[2024-02-06 10:00:05.357] [info]  Found langchain in /Users/scottkennedy/.kenv/package.json
+[2024-02-06 10:00:05.360] [warn]  Error: Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/Users/scottkennedy/.kenv/node_modules/langchain/index.js' imported from /Users/scottkennedy/.kit/api/npm.js
+[2024-02-06 10:00:05.361] [warn]  ☠️ ERROR PROMPT SHOULD SHOW ☠️
+[2024-02-06 10:00:05.361] [warn]  Error: Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/Users/scottkennedy/.kenv/node_modules/langchain/index.js' imported from /Users/scottkennedy/.kit/api/npm.js
+    at kenvImport (file:///Users/scottkennedy/.kit/api/npm.js:87:15)
+    at async file:///Users/scottkennedy/.kenv/scripts/ai-summarize.ts:4:1
+[2024-02-06 10:12:19.787] [info]  Found openai in /Users/scottkennedy/.kenv/package.json
+[2024-02-06 10:12:19.833] [info]  Found langchain in /Users/scottkennedy/.kenv/package.json
+[2024-02-06 10:12:19.835] [warn]  Error: Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/Users/scottkennedy/.kenv/node_modules/langchain/index.js' imported from /Users/scottkennedy/.kit/api/npm.js
+[2024-02-06 10:12:19.836] [warn]  ☠️ ERROR PROMPT SHOULD SHOW ☠️
+[2024-02-06 10:12:19.836] [warn]  Error: Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/Users/scottkennedy/.kenv/node_modules/langchain/index.js' imported from /Users/scottkennedy/.kit/api/npm.js
+    at kenvImport (file:///Users/scottkennedy/.kit/api/npm.js:87:15)
+    at async file:///Users/scottkennedy/.kenv/scripts/ai-summarize.ts:4:1
+[2024-02-06 10:12:41.356] [info]  Found openai in /Users/scottkennedy/.kenv/package.json
+[2024-02-06 10:12:41.403] [info]  Found langchain in /Users/scottkennedy/.kenv/package.json
+[2024-02-06 10:12:41.405] [warn]  Error: Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/Users/scottkennedy/.kenv/node_modules/langchain/index.js' imported from /Users/scottkennedy/.kit/api/npm.js
+[2024-02-06 10:12:41.406] [warn]  ☠️ ERROR PROMPT SHOULD SHOW ☠️
+[2024-02-06 10:12:41.406] [warn]  Error: Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/Users/scottkennedy/.kenv/node_modules/langchain/index.js' imported from /Users/scottkennedy/.kit/api/npm.js
+    at kenvImport (file:///Users/scottkennedy/.kit/api/npm.js:87:15)
+    at async file:///Users/scottkennedy/.kenv/scripts/ai-summarize.ts:4:1
+[2024-02-06 10:13:21.996] [info]  Found openai in /Users/scottkennedy/.kenv/package.json
+[2024-02-06 10:13:22.042] [info]  Found langchain in /Users/scottkennedy/.kenv/package.json
+[2024-02-06 10:13:22.046] [warn]  Error: Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/Users/scottkennedy/.kenv/node_modules/langchain/index.js' imported from /Users/scottkennedy/.kit/api/npm.js
+[2024-02-06 10:13:22.047] [warn]  ☠️ ERROR PROMPT SHOULD SHOW ☠️
+[2024-02-06 10:13:22.047] [warn]  Error: Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/Users/scottkennedy/.kenv/node_modules/langchain/index.js' imported from /Users/scottkennedy/.kit/api/npm.js
+    at kenvImport (file:///Users/scottkennedy/.kit/api/npm.js:87:15)
+    at async file:///Users/scottkennedy/.kenv/scripts/ai-summarize.ts:4:1
+[2024-02-06 10:15:04.723] [info]  Found openai in /Users/scottkennedy/.kenv/package.json
+[2024-02-06 10:15:04.758] [info]  Found langchain in /Users/scottkennedy/.kenv/package.json
+[2024-02-06 10:15:04.760] [warn]  Error: Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/Users/scottkennedy/.kenv/node_modules/langchain/index.js' imported from /Users/scottkennedy/.kit/api/npm.js
+[2024-02-06 10:15:04.761] [warn]  ☠️ ERROR PROMPT SHOULD SHOW ☠️
+[2024-02-06 10:15:04.761] [warn]  Error: Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/Users/scottkennedy/.kenv/node_modules/langchain/index.js' imported from /Users/scottkennedy/.kit/api/npm.js
+    at kenvImport (file:///Users/scottkennedy/.kit/api/npm.js:87:15)
+    at async file:///Users/scottkennedy/.kenv/scripts/ai-summarize.ts:4:1
+[2024-02-06 10:15:41.284] [info]  Found openai in /Users/scottkennedy/.kenv/package.json
+[2024-02-06 10:15:41.326] [info]  Found langchain in /Users/scottkennedy/.kenv/package.json
+[2024-02-06 10:15:41.329] [warn]  Error: Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/Users/scottkennedy/.kenv/node_modules/langchain/index.js' imported from /Users/scottkennedy/.kit/api/npm.js
+[2024-02-06 10:15:41.329] [warn]  ☠️ ERROR PROMPT SHOULD SHOW ☠️
+[2024-02-06 10:15:41.330] [warn]  Error: Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/Users/scottkennedy/.kenv/node_modules/langchain/index.js' imported from /Users/scottkennedy/.kit/api/npm.js
+    at kenvImport (file:///Users/scottkennedy/.kit/api/npm.js:87:15)
+    at async file:///Users/scottkennedy/.kenv/scripts/ai-summarize.ts:4:1
+[2024-02-06 10:16:17.215] [warn]  Error [ERR_MODULE_NOT_FOUND]: Cannot find package '@johnlindquist/kit' imported from /Users/scottkennedy/.kenv/scripts/ai-summarize.ts
+[2024-02-06 10:16:17.215] [warn]  ☠️ ERROR PROMPT SHOULD SHOW ☠️
+[2024-02-06 10:16:17.215] [warn]  Error [ERR_MODULE_NOT_FOUND]: Cannot find package '@johnlindquist/kit' imported from /Users/scottkennedy/.kenv/scripts/ai-summarize.ts
+    at new NodeError (node:internal/errors:405:5)
+    at packageResolve (node:internal/modules/esm/resolve:890:9)
+    at moduleResolve (node:internal/modules/esm/resolve:939:20)
+    at defaultResolve (node:internal/modules/esm/resolve:1132:11)
+    at nextResolve (node:internal/modules/esm/loader:163:28)
+    at ESMLoader.resolve (node:internal/modules/esm/loader:835:30)
+    at ESMLoader.getModuleJob (node:internal/modules/esm/loader:424:18)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:77:40)
+    at link (node:internal/modules/esm/module_job:76:36)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-02-06 10:16:32.064] [warn]  Error [ERR_MODULE_NOT_FOUND]: Cannot find package '@johnlindquist/kit' imported from /Users/scottkennedy/.kenv/scripts/ai-summarize.ts
+[2024-02-06 10:16:32.064] [warn]  ☠️ ERROR PROMPT SHOULD SHOW ☠️
+[2024-02-06 10:16:32.064] [warn]  Error [ERR_MODULE_NOT_FOUND]: Cannot find package '@johnlindquist/kit' imported from /Users/scottkennedy/.kenv/scripts/ai-summarize.ts
+    at new NodeError (node:internal/errors:405:5)
+    at packageResolve (node:internal/modules/esm/resolve:890:9)
+    at moduleResolve (node:internal/modules/esm/resolve:939:20)
+    at defaultResolve (node:internal/modules/esm/resolve:1132:11)
+    at nextResolve (node:internal/modules/esm/loader:163:28)
+    at ESMLoader.resolve (node:internal/modules/esm/loader:835:30)
+    at ESMLoader.getModuleJob (node:internal/modules/esm/loader:424:18)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:77:40)
+    at link (node:internal/modules/esm/module_job:76:36)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-02-06 10:16:55.462] [warn]  Error [ERR_MODULE_NOT_FOUND]: Cannot find package '@johnlindquist/kit' imported from /Users/scottkennedy/.kenv/scripts/ai-summarize.ts
+[2024-02-06 10:16:55.463] [warn]  ☠️ ERROR PROMPT SHOULD SHOW ☠️
+[2024-02-06 10:16:55.463] [warn]  Error [ERR_MODULE_NOT_FOUND]: Cannot find package '@johnlindquist/kit' imported from /Users/scottkennedy/.kenv/scripts/ai-summarize.ts
+    at new NodeError (node:internal/errors:405:5)
+    at packageResolve (node:internal/modules/esm/resolve:890:9)
+    at moduleResolve (node:internal/modules/esm/resolve:939:20)
+    at defaultResolve (node:internal/modules/esm/resolve:1132:11)
+    at nextResolve (node:internal/modules/esm/loader:163:28)
+    at ESMLoader.resolve (node:internal/modules/esm/loader:835:30)
+    at ESMLoader.getModuleJob (node:internal/modules/esm/loader:424:18)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:77:40)
+    at link (node:internal/modules/esm/module_job:76:36)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-02-06 10:17:19.955] [warn]  Error [ERR_MODULE_NOT_FOUND]: Cannot find package '@johnlindquist/kit' imported from /Users/scottkennedy/.kenv/scripts/ai-summarize.ts
+[2024-02-06 10:17:19.955] [warn]  ☠️ ERROR PROMPT SHOULD SHOW ☠️
+[2024-02-06 10:17:19.955] [warn]  Error [ERR_MODULE_NOT_FOUND]: Cannot find package '@johnlindquist/kit' imported from /Users/scottkennedy/.kenv/scripts/ai-summarize.ts
+    at new NodeError (node:internal/errors:405:5)
+    at packageResolve (node:internal/modules/esm/resolve:890:9)
+    at moduleResolve (node:internal/modules/esm/resolve:939:20)
+    at defaultResolve (node:internal/modules/esm/resolve:1132:11)
+    at nextResolve (node:internal/modules/esm/loader:163:28)
+    at ESMLoader.resolve (node:internal/modules/esm/loader:835:30)
+    at ESMLoader.getModuleJob (node:internal/modules/esm/loader:424:18)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:77:40)
+    at link (node:internal/modules/esm/module_job:76:36)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-02-06 10:17:41.407] [warn]  Error [ERR_MODULE_NOT_FOUND]: Cannot find package '@johnlindquist/kit' imported from /Users/scottkennedy/.kenv/scripts/ai-summarize.ts
+[2024-02-06 10:17:41.407] [warn]  ☠️ ERROR PROMPT SHOULD SHOW ☠️
+[2024-02-06 10:17:41.407] [warn]  Error [ERR_MODULE_NOT_FOUND]: Cannot find package '@johnlindquist/kit' imported from /Users/scottkennedy/.kenv/scripts/ai-summarize.ts
+    at new NodeError (node:internal/errors:405:5)
+    at packageResolve (node:internal/modules/esm/resolve:890:9)
+    at moduleResolve (node:internal/modules/esm/resolve:939:20)
+    at defaultResolve (node:internal/modules/esm/resolve:1132:11)
+    at nextResolve (node:internal/modules/esm/loader:163:28)
+    at ESMLoader.resolve (node:internal/modules/esm/loader:835:30)
+    at ESMLoader.getModuleJob (node:internal/modules/esm/loader:424:18)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:77:40)
+    at link (node:internal/modules/esm/module_job:76:36)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-02-06 10:18:17.771] [warn]  Error [ERR_MODULE_NOT_FOUND]: Cannot find package '@johnlindquist/kit' imported from /Users/scottkennedy/.kenv/scripts/ai-summarize.ts
+[2024-02-06 10:18:17.772] [warn]  ☠️ ERROR PROMPT SHOULD SHOW ☠️
+[2024-02-06 10:18:17.772] [warn]  Error [ERR_MODULE_NOT_FOUND]: Cannot find package '@johnlindquist/kit' imported from /Users/scottkennedy/.kenv/scripts/ai-summarize.ts
+    at new NodeError (node:internal/errors:405:5)
+    at packageResolve (node:internal/modules/esm/resolve:890:9)
+    at moduleResolve (node:internal/modules/esm/resolve:939:20)
+    at defaultResolve (node:internal/modules/esm/resolve:1132:11)
+    at nextResolve (node:internal/modules/esm/loader:163:28)
+    at ESMLoader.resolve (node:internal/modules/esm/loader:835:30)
+    at ESMLoader.getModuleJob (node:internal/modules/esm/loader:424:18)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:77:40)
+    at link (node:internal/modules/esm/module_job:76:36)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-02-06 10:19:51.374] [info]  Found openai in /Users/scottkennedy/.kenv/package.json
+[2024-02-06 10:19:51.419] [info]  Found langchain in /Users/scottkennedy/.kenv/package.json
+[2024-02-06 10:19:51.422] [warn]  Error: Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/Users/scottkennedy/.kenv/node_modules/langchain/index.js' imported from /Users/scottkennedy/.kit/api/npm.js
+[2024-02-06 10:19:51.422] [warn]  ☠️ ERROR PROMPT SHOULD SHOW ☠️
+[2024-02-06 10:19:51.423] [warn]  Error: Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/Users/scottkennedy/.kenv/node_modules/langchain/index.js' imported from /Users/scottkennedy/.kit/api/npm.js
+    at kenvImport (file:///Users/scottkennedy/.kit/api/npm.js:87:15)
+    at async file:///Users/scottkennedy/.kenv/scripts/ai-summarize.ts:4:1
+[2024-02-06 10:20:52.872] [info]  Found openai in /Users/scottkennedy/.kenv/package.json
+[2024-02-06 10:20:52.909] [info]  Found langchain in /Users/scottkennedy/.kenv/package.json
+[2024-02-06 10:20:52.912] [warn]  Error: Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/Users/scottkennedy/.kenv/node_modules/langchain/index.js' imported from /Users/scottkennedy/.kit/api/npm.js
+[2024-02-06 10:20:52.913] [warn]  ☠️ ERROR PROMPT SHOULD SHOW ☠️
+[2024-02-06 10:20:52.913] [warn]  Error: Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/Users/scottkennedy/.kenv/node_modules/langchain/index.js' imported from /Users/scottkennedy/.kit/api/npm.js
+    at kenvImport (file:///Users/scottkennedy/.kit/api/npm.js:87:15)
+    at async file:///Users/scottkennedy/.kenv/scripts/ai-summarize.ts:4:1
+[2024-02-06 10:24:50.109] [info]  Found openai in /Users/scottkennedy/.kenv/package.json
+[2024-02-06 10:24:50.185] [info]  Found langchain in /Users/scottkennedy/.kenv/package.json
+[2024-02-06 10:24:50.188] [warn]  Error: Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/Users/scottkennedy/.kenv/node_modules/langchain/index.js' imported from /Users/scottkennedy/.kit/api/npm.js
+[2024-02-06 10:24:50.189] [warn]  ☠️ ERROR PROMPT SHOULD SHOW ☠️
+[2024-02-06 10:24:50.189] [warn]  Error: Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/Users/scottkennedy/.kenv/node_modules/langchain/index.js' imported from /Users/scottkennedy/.kit/api/npm.js
+    at kenvImport (file:///Users/scottkennedy/.kit/api/npm.js:87:15)
+    at async file:///Users/scottkennedy/.kenv/scripts/ai-summarize.ts:4:1
+[2024-02-06 10:25:14.479] [info]  Found openai in /Users/scottkennedy/.kenv/package.json
+[2024-02-06 10:28:22.640] [info]  Found langchain in /Users/scottkennedy/.kenv/package.json
+[2024-02-06 10:28:22.662] [warn]  Error: Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/Users/scottkennedy/.kenv/node_modules/langchain/index.js' imported from /Users/scottkennedy/.kit/api/npm.js
+[2024-02-06 10:28:22.662] [warn]  ☠️ ERROR PROMPT SHOULD SHOW ☠️
+[2024-02-06 10:28:22.663] [warn]  Error: Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/Users/scottkennedy/.kenv/node_modules/langchain/index.js' imported from /Users/scottkennedy/.kit/api/npm.js
+    at kenvImport (file:///Users/scottkennedy/.kit/api/npm.js:87:15)
+    at async file:///Users/scottkennedy/.kenv/scripts/ai-summarize.ts:5:1
+[2024-02-06 10:28:41.154] [info]  Found openai in /Users/scottkennedy/.kenv/package.json
+[2024-02-06 10:28:41.209] [info]  Found langchain in /Users/scottkennedy/.kenv/package.json
+[2024-02-06 10:28:41.212] [warn]  Error: Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/Users/scottkennedy/.kenv/node_modules/langchain/index.js' imported from /Users/scottkennedy/.kit/api/npm.js
+[2024-02-06 10:28:41.212] [warn]  ☠️ ERROR PROMPT SHOULD SHOW ☠️
+[2024-02-06 10:28:41.212] [warn]  Error: Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/Users/scottkennedy/.kenv/node_modules/langchain/index.js' imported from /Users/scottkennedy/.kit/api/npm.js
+    at kenvImport (file:///Users/scottkennedy/.kit/api/npm.js:87:15)
+    at async file:///Users/scottkennedy/.kenv/scripts/ai-summarize.ts:5:1
+[2024-02-06 10:28:59.613] [info]  Found openai in /Users/scottkennedy/.kenv/package.json
+[2024-02-06 10:28:59.660] [info]  Found langchain in /Users/scottkennedy/.kenv/package.json
+[2024-02-06 10:28:59.663] [warn]  Error: Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/Users/scottkennedy/.kenv/node_modules/langchain/index.js' imported from /Users/scottkennedy/.kit/api/npm.js
+[2024-02-06 10:28:59.664] [warn]  ☠️ ERROR PROMPT SHOULD SHOW ☠️
+[2024-02-06 10:28:59.664] [warn]  Error: Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/Users/scottkennedy/.kenv/node_modules/langchain/index.js' imported from /Users/scottkennedy/.kit/api/npm.js
+    at kenvImport (file:///Users/scottkennedy/.kit/api/npm.js:87:15)
+    at async file:///Users/scottkennedy/.kenv/scripts/ai-summarize.ts:5:1
